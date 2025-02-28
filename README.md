@@ -1,4 +1,4 @@
-# OurPantry: A grocery management app
+# OurPantry: A grocery management app 🛍️ 
 
 ### Team Members
 - Member 1: Ashifa M S   - Sahrdaya College of Engineering and Technology 
@@ -47,7 +47,7 @@ Asking the bot queries about symptoms and basic medicine suggestions.
 <br>The similar queries to earlier.<br>
 
 # Diagrams
-![Workflow diagram](flowdiagram.jpeg)
+![Workflow diagram](workflow.png)
 <br>Demonstrates the backend and flow of program.<br>
 
 # Video[
