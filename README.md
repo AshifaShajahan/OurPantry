@@ -47,7 +47,8 @@ Asking the bot queries about symptoms and basic medicine suggestions.
 <br>The similar queries to earlier.<br>
 
 # Diagrams
-![Workflow diagram](workflow.png)
+![Workflow diagram]
+(Workflow.png)
 <br>Demonstrates the backend and flow of program.<br>
 
 # Video[
